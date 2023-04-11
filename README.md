@@ -19,7 +19,7 @@ Referencia [https://reactnative.dev/docs/environment-setup](https://reactnative.
 
 ### Generar icon
 
-Generador [https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+Generador https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
 Descargamos y descomprimimos el archivo. 
 Copiamos el contenido de res a `/android/app/src/main/res/`
 
