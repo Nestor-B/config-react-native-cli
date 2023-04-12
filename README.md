@@ -135,6 +135,25 @@ Luego vamos a la carpeta values. Si no existe la creamos y dentro un archivo lla
 	</resources>
 ```
 
+------------
+
+
+##### Implementar Icons Vectors
+
+`npm install react-native-vector-icons --save`
+
+Referencias: 
+[https://github.com/oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+[https://aboutreact.com/react-native-vector-icons/](https://aboutreact.com/react-native-vector-icons/)
+[https://oblador.github.io/react-native-vector-icons/](https://oblador.github.io/react-native-vector-icons/)
+
+
+``` 
+import Icon from 'react-native-vector-icons/MaterialIcons'
+```
+```
+<Icon name='home' size={30} color='#900' />
+```
 
 ------------
 
