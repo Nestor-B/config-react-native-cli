@@ -144,7 +144,9 @@ Luego vamos a la carpeta values. Si no existe la creamos y dentro un archivo lla
 
 Referencias: 
 [https://github.com/oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+-
 [https://aboutreact.com/react-native-vector-icons/](https://aboutreact.com/react-native-vector-icons/)
+-
 [https://oblador.github.io/react-native-vector-icons/](https://oblador.github.io/react-native-vector-icons/)
 
 
