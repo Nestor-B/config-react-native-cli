@@ -138,6 +138,18 @@ Luego vamos a la carpeta values. Si no existe la creamos y dentro un archivo lla
 
 ------------
 
+
+##### Implementar Imagenes Gif
+
+Agregar en `dependencies` de `/android/app/build.gradle`
+
+```
+implementation 'com.facebook.fresco:fresco:2.0.0'
+implementation 'com.facebook.fresco:animated-gif:2.6.0'
+```
+
+------------
+
 ##### Run
 
 Intente correr la aplicación.
